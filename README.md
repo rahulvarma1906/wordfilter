@@ -4,17 +4,17 @@ Angular JS module to filter out bad words from input and returns a boolean true 
 
 # Installation
 
-bower install wordFilter
+bower install wordfilter
 
 and Add 'wordFilter' module as a dependency.
 
 Injecting: 
 
-var app = angular.module('myApp', ['wordFilter']);`
+var app = angular.module('myApp', ['wordfilter']);`
 
 Using in Controller
 
-app.controller('myCtrl', function(wordfilter) {
+app.controller('myCtrl', function(wfilter) {
     console.log(wordfilter.isBlacklisted($scope.value));
     
 }); 
