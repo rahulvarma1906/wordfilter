@@ -5,8 +5,9 @@
     "Rahul Varma <rahulvarma1906@gmail.com>"
   ],
   "main": "./wordFilter.js",
+  "version": "1.0",
   "keywords": [
-    "word",
+    "wordFilter ",
     "filter",
     "bad",
     "words",
