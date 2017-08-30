@@ -4,24 +4,16 @@
   "authors": [
     "Rahul Varma <rahulvarma1906@gmail.com>"
   ],
-  "main": "./wordFilter.js",
+  "main": "./wordfilter.js",
   "version": "1.0",
   "keywords": [
-    "wordFilter ",
+    "word filter ",
     "filter",
     "bad",
     "words",
     "adult",
     "angular"
   ],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  
   "dependencies": {
 		"angular": "*"
 }
