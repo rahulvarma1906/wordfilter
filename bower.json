@@ -13,7 +13,6 @@
     "adult",
     "angular"
   ],
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
